@@ -1,0 +1,35 @@
+#container{
+        width: 50%;
+        margin: 30px auto;
+        border: 1px solid #000;
+        background-color: rgb(47, 50, 252);
+    }
+    h1 {
+        text-align: center;
+        text-decoration: underline 2px ;
+    }
+    #form {
+        border: 1px solid #000;
+        padding: 20px; 
+        margin: 20px; 
+    }
+    div {
+        margin-bottom: 10px;
+    }
+    
+    
+    ul {
+        list-style: none;
+    }
+    li {
+        margin-bottom: 20px;
+    }
+    a:link, a:visited, a:active {
+        text-decoration: none;
+        color: #00F;
+    }
+    a:hover {
+        text-decoration: underline;
+        color: #f00
+    }
+    
